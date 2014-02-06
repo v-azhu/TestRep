@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<root>
+  <settings name="This is a test."/>
+  <body>
+  	<title>My Title</title>
+  	<info>The quick brown fox jumps over the lazy dog.</info>
+  </body>
+</root>
